@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/Controllers/HomeController.vb))
+* [MyItem.cs](./CS/Models/MyItem.cs) (VB: [MyItem.vb](./VB/Models/MyItem.vb))
+* [Script.js](./CS/Scripts/Script.js) (VB: [Script.js](./VB/Scripts/Script.js))
+* [GridViewPartial.cshtml](./CS/Views/Home/GridViewPartial.cshtml)
+* [Index.cshtml](./CS/Views/Home/Index.cshtml)
+* [_Layout.cshtml](./CS/Views/Shared/_Layout.cshtml)
+<!-- default file list end -->
 # How to perform GridView instant updating using different editors in the DataItem template 
 
 
