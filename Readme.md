@@ -1,12 +1,10 @@
 *Files to look at*:
 
-C:\Examples\githubexamples\How to perform\CS\E3326\E3326
-
 * [HomeController.cs](./CS/E3326/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/E3326_VB/Controllers/HomeController.vb))
 * [MyItem.cs](./CS/E3326/Models/MyItem.cs) (VB: [MyItem.vb](./VB/E3326_VB/Models/MyItem.vb))
 * [Script.js](./CS/E3326/Scripts/Script.js) (VB: [Script.js](./VB/E3326_VB/Scripts/Script.js))
-* [GridViewPartial.cshtml](./CS/E3326/Views/Home/GridViewPartial.cshtml)
-* [Index.cshtml](./CS/E3326/Views/Home/Index.cshtml)
+* [GridViewPartial.cshtml](./CS/E3326/Views/Home/GridViewPartial.cshtml) (VB: [GridViewPartial.vbhtml](./VB/E3326_VB/Views/Home/GridViewPartial.vbhtml))
+* [Index.cshtml](./CS/E3326/Views/Home/Index.cshtml) (VB: [Index.vbhtml](./VB/E3326_VB/Views/Home/Index.vbhtml))
 
 # How to perform GridView instant updating using different editors in the DataItem template 
 <!-- run online -->
