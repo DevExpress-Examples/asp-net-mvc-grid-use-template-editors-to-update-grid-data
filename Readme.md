@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # Grid View for ASP.NET MVC - How to use template editors to update grid data
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3326/)**
+**[[Run Online]](https://codecentral.devexpress.com/128551807/)**
 <!-- run online end -->
 
 This example demonstrates how to create a templated column, add an editor to the template, and call the [jQuery.ajax](http://api.jquery.com/jQuery.ajax/) method to get the editor's value and pass it to the server.
