@@ -15,7 +15,7 @@
 <!-- default file list end -->
 # How to perform GridView instant updating using different editors in the DataItem template 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3326)**
+**[[Run Online]](https://codecentral.devexpress.com/128551807/)**
 <!-- run online end -->
 
 
