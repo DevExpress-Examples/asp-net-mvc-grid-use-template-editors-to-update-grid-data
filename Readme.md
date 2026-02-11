@@ -60,7 +60,7 @@ function OnValueChanged(s, fieldName, keyValue, url) {
 
 * [Grid View for ASP.NET Web Forms - How to use template editors to update grid data](https://github.com/DevExpress-Examples/asp-net-web-forms-grid-use-template-editors-to-update-data-on-callbacks)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-use-template-editors-to-update-grid-data&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-grid-use-template-editors-to-update-grid-data&~~~was_helpful=no)
 
